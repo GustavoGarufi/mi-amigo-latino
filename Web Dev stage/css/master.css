@@ -10,6 +10,9 @@ body {
 .whitebg{
   background-color: #fff;
 }
+.bottoma{
+  color: #03a3a4;
+}
 .sb-ul{
   list-style-type: none;
   margin: 0;
